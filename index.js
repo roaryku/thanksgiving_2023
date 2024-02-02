@@ -1,7 +1,7 @@
 // THANKSGIVING COUNTDOWN
 
 function thanksCountDown () {
-  const thanksDate = new Date ("November 23, 2023 00:00");
+  const thanksDate = new Date ("November 23, 2024 00:00");
   const now = new Date ();
   const difference = thanksDate - now;
 
